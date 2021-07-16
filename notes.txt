@@ -1,0 +1,15 @@
+corrélation = intensité de liaison entre variables (entre -1 et 1)
+
+- apprentissage non supervisé : sortie n'est pas fournie à l'algo
+- apprentissage supervisé (+++) : entrée-sortie fournies : l'aglo doit pouvoir fournir 
+une sortie 
+- apprentissage par renforcement
+
+méthode linéaire : rechercher la "meilleure ligne droite" dans les nuages de points
+
+-> faut cacher des données pour que l'algo soit capable de gérer des données 
+non connues. D'où l'importance des data de test/training. Sinon on risque le sur entraînement (ex des photos
+de char USA/RUS)
+
+-> feature enginerring : techniques permettant d'extraire des variables depuis des données (rajouter 
+des colonnes par ex)
